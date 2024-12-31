@@ -9,5 +9,5 @@ A modern twist on the classic Tic Tac Toe game! In this version, the game challe
 - The first player to align **three of their symbols** wins!
 
 # Tech Stack:
-Language: Python
-Framework: Tkinter
+- Language: Python
+- Framework: Tkinter
